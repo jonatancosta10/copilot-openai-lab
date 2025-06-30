@@ -32,4 +32,4 @@ Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de ex
 
 ## 🚀 Autor
 
-- [Seu Nome](https://github.com/seunome)
+- Jonatan Costa
