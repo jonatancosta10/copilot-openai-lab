@@ -18,9 +18,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de ex
 
 ## 📂 Estrutura
 
-- `prompts/`: Contém os prompts utilizados e exemplos de resposta
 - `images/`: Capturas de tela das sessões
-- `learnings.md`: Reflexões e aprendizados
 
 ## 📸 Exemplos
 
